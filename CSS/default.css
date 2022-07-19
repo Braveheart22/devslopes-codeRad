@@ -1,0 +1,15 @@
+:root {
+    --white: #FFF;
+    --black: #000;
+    --font-color-base: #666;
+    --font-color-dark: #212529;
+    --font-color-link: #57A6FF;
+    --font-color-light: #B0AEBE;
+    --footer: #34314b;
+    --footer-base: #2E2B45;
+    --contrast: var(--font-color-light);
+    --success: #64ECF5;
+    --danger: #FF8B8D;
+    --gradient-1: #A1ECFF;
+    --gradient-2: #7DBCFF;
+}
