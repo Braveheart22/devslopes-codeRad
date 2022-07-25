@@ -317,6 +317,13 @@ span.bg-color-6 { background-image: linear-gradient(90deg, #a1ecff 0%, #7bdcff 1
     line-height: 1.6;
 }
 
+footer {
+    background: var(--footer);
+}
+
+.footer-bottom {
+    background: var(--footer-base);
+}
 .footer-top {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
