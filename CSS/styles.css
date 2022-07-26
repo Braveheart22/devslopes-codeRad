@@ -362,7 +362,7 @@ footer {
 
 .social-icons ul li a {
     color: var(--white);
-    font-size: var(--size-16);
+    font-size: var(--size-12);
 }
 .services-wrapper p {
     color: #858497;
@@ -374,7 +374,7 @@ footer {
 }
 
 .recent-posts .post-img-wrapper {
-    width: var(--size-100);
+    width: var(--size-200);
     margin-right: var(--size-10);
 }
 
@@ -385,6 +385,7 @@ footer {
 .post-inner h6 a {
     color: var(--white);
     font-weight: 600;
+    font-size: 12px;
 }
 
 .post-inner span {
